@@ -410,6 +410,7 @@ const Products = () => {
         {/* TODO: CRIO_TASK_MODULE_PRODUCTS - Display search bar in the header for Products page */}
 
       </Header>
+      <h1>Products</h1>
 
       {/* Search view for mobiles */}
       <TextField

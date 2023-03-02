@@ -7,7 +7,7 @@ import Checkout from "./components/Checkout";
 import Thanks from "./components/Thanks";
 
 export const config = {
-  endpoint: `https://qkart-varun.herokuapp.com/api/v1`,
+  endpoint: `https://qkart-backend-chyg.onrender.com/v1`,
 };
 
 function App() {
